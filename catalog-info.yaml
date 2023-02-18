@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: springboot-kotlin-service
+  name: springboot-kotlin-service-2
   description: Standard SpringBoot Kotlin Service.
   annotations:
     github.com/project-slug: subhajits/springboot-kotlin-service
